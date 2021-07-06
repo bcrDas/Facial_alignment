@@ -14,7 +14,6 @@ PonderImageCuration is an image processing pipeline which can take images as inp
 
 ## General info
 ### `Folder details`:
-* `facial_alignment_python` -> Only some image folder inside,nothing else.
 * `quality_image_emotion_detection_facial_alignment` -> Facial alignment along with image quality control and emotion                                                               detection. 
 * `img_upload_with_login_auth_Firebase` -> Image upload(from local to firebase) portal with authentication.
 * `images` -> Input image folder.
